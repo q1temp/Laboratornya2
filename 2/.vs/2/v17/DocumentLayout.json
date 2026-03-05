@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u044F\u043F\\Laboratornya2\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B364C6E-10B2-4CFE-B4BE-D12BF0E345B1}|2\\2.fsproj|c:\\users\\user\\desktop\\\u044F\u043F\\laboratornya2\\2\\2\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{7B364C6E-10B2-4CFE-B4BE-D12BF0E345B1}|2\\2.fsproj|solutionrelative:2\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u044F\u043F\\Laboratornya2\\2\\2\\Program.fs",
+              "RelativeDocumentMoniker": "2\\Program.fs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u044F\u043F\\Laboratornya2\\2\\2\\Program.fs",
+              "RelativeToolTip": "2\\Program.fs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-03T16:30:47.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
